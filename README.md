@@ -83,30 +83,30 @@ Jack of Diamonds: Joke
 
 2 of Diamonds: HaxTheCharizard
 
-Ace of Spades:
+Ace of Spades: Ori
 
-King of Spades:
+King of Spades: Eremel
 
-Queen of Spades:
+Queen of Spades: Opal
 
-Jack of Spades:
+Jack of Spades: Crimson Hearth
 
-10 of Spades:
+10 of Spades: Kailen
 
-9 of Spades:
+9 of Spades: TheNitroMelon
 
-8 of Spades:
+8 of Spades: E.
 
-7 of Spades:
+7 of Spades: RattlingSnow353
 
-6 of Spades:
+6 of Spades: FitnessGram™ Pacer Test
 
-5 of Spades:
+5 of Spades: WilsontheWolf
 
-4 of Spades:
+4 of Spades: SleepyG11
 
-3 of Spades:
+3 of Spades: InertSteak
 
-2 of Spades:
+2 of Spades: Skinky
 
 
