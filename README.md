@@ -1,7 +1,7 @@
-NOW YOU HAS BEEN TURNED IN A PLAYING CARD
+NOW YOU HAS BEEN TURNED IN A PLAYING CARD\n
 
-This texture pack turn the regular playing cards
-in to balatro discord users playing cards
+This texture pack turn the regular playing cards\n
+in to balatro discord users playing cards\n
 
 Credits:
 
