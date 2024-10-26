@@ -31,15 +31,15 @@ Jack of Hearts: GayCoonie
 
 2 of Hearts: TiltedHat
 
-Ace of Clubs:
+Ace of Clubs: FurretWalk
 
-King of Clubs:
+King of Clubs: Larswijn
 
-Queen of Clubs:
+Queen of Clubs: Marie
 
-Jack of Clubs:
+Jack of Clubs: Dimserene
 
-10 of Clubs:
+10 of Clubs: PinkMaggit
 
 9 of Clubs:
 
