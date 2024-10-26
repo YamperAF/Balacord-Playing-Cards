@@ -57,31 +57,31 @@ Jack of Clubs: Dimserene
 
 2 of Clubs: Stupid
 
-Ace of Diamonds:
+Ace of Diamonds: Astryder
 
-King of Diamonds:
+King of Diamonds: Fancy M
 
-Queen of Diamonds:
+Queen of Diamonds: Jecka
 
-Jack of Diamonds:
+Jack of Diamonds: Joke
 
-10 of Diamonds:
+10 of Diamonds: Salsa
 
-9 of Diamonds:
+9 of Diamonds: Egg
 
-8 of Diamonds:
+8 of Diamonds: Erddad
 
-7 of Diamonds:
+7 of Diamonds: Aure
 
-6 of Diamonds:
+6 of Diamonds: Wuwek
 
-5 of Diamonds:
+5 of Diamonds: Metherul
 
-4 of Diamonds:
+4 of Diamonds: Ducker
 
-3 of Diamonds:
+3 of Diamonds: Modlich
 
-2 of Diamonds:
+2 of Diamonds: HaxTheCharizard
 
 Ace of Spades:
 
