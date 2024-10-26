@@ -19,17 +19,17 @@ Jack of Hearts: GayCoonie
 
 8 of Hearts: Bird But Bread
 
-7 of Hearts:
+7 of Hearts: Cowman
 
-6 of Hearts:
+6 of Hearts: Eve
 
-5 of Hearts:
+5 of Hearts: Denverplays2
 
-4 of Hearts:
+4 of Hearts: Gappie @ for hugs
 
-3 of Hearts:
+3 of Hearts: Squeaky Duck
 
-2 of Hearts:
+2 of Hearts: TiltedHat
 
 Ace of Clubs:
 
