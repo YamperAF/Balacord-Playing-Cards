@@ -41,21 +41,21 @@ Jack of Clubs: Dimserene
 
 10 of Clubs: PinkMaggit
 
-9 of Clubs:
+9 of Clubs: Fridgemancer
 
-8 of Clubs:
+8 of Clubs: survivalaren
 
-7 of Clubs:
+7 of Clubs: OppositeWolf770
 
-6 of Clubs:
+6 of Clubs: General Gaius
 
-5 of Clubs:
+5 of Clubs: #Guigui
 
-4 of Clubs:
+4 of Clubs: MiniRebel
 
-3 of Clubs:
+3 of Clubs: Mr. Clover
 
-2 of Clubs:
+2 of Clubs: Stupid
 
 Ace of Diamonds:
 
