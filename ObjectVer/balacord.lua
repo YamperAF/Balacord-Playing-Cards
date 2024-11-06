@@ -1,7 +1,7 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: Balacord Playing Cards
 --- MOD_ID: BalaCards
---- MOD_AUTHOR: [YamperAF, Opal]
+--- MOD_AUTHOR: [Yamper, The Balatro Discord]
 --- MOD_DESCRIPTION: Adds a Deck Skin for each Suit based on Balatro Discord members.
 --- DEPENDENCIES: [Steamodded>=1.0.0~ALPHA-0812d]
 --- PREFIX: balacards
