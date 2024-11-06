@@ -1,7 +1,9 @@
-NOW YOU HAS BEEN TURNED IN A PLAYING CARD
+NOW YOU HAS BEEN FORKED!!!
 
 This texture pack turn the regular playing cards 
 in to balatro discord users playing cards
+
+This is a Fork version that uses the new Steamodded Object.
 
 Credits:
 
