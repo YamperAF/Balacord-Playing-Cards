@@ -1,7 +1,7 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: Balacord Playing Cards
 --- MOD_ID: BalaCards
---- MOD_AUTHOR: [Yamper, The Balatro Discord]
+--- MOD_AUTHOR: [Yamper, Opal, The Balatro Discord]
 --- MOD_DESCRIPTION: Adds a Deck Skin for each Suit based on Balatro Discord members.
 --- DEPENDENCIES: [Steamodded>=1.0.0~ALPHA-0812d]
 --- PREFIX: balacards
@@ -56,7 +56,7 @@ SMODS.DeckSkin{
     },
     lc_atlas = 'balacord_spades_atlas',
     loc_txt = {
-        ['en_us'] = 'Balacord'
+        ['en-us'] = 'Balacord'
     },
     posStyle = 'suit'
 }
@@ -69,7 +69,7 @@ SMODS.DeckSkin{
     },
     lc_atlas = 'balacord_hearts_atlas',
     loc_txt = {
-        ['en_us'] = 'Balacord'
+        ['en-us'] = 'Balacord'
     },
     posStyle = 'suit'
 }
@@ -82,7 +82,7 @@ SMODS.DeckSkin{
     },
     lc_atlas = 'balacord_clubs_atlas',
     loc_txt = {
-        ['en_us'] = 'Balacord'
+        ['en-us'] = 'Balacord'
     },
     posStyle = 'suit'
 }
@@ -95,7 +95,7 @@ SMODS.DeckSkin{
     },
     lc_atlas = 'balacord_diamonds_atlas',
     loc_txt = {
-        ['en_us'] = 'Balacord'
+        ['en-us'] = 'Balacord'
     },
     posStyle = 'suit'
 }
