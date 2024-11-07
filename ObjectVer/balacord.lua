@@ -40,6 +40,14 @@ SMODS.Atlas{
     atlas_table = 'ASSET_ATLAS'
 }
 
+SMODS.Atlas{
+    key = 'yamperjimbo',
+    path = 'yamperjimbo.png',
+    px = 71,
+    py = 95,
+    atlas_table = 'ASSET_ATLAS'
+}
+
 SMODS.DeckSkin{
     key = 'balacord_spades',
     suit = 'Spades',
